@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0207/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 撰
+  hash: sha256:6c5ae9564292c109a98624cf08856367b16e5d2522cee022cc1426a225739c9a
+metadata:
+  title: 默堂先生文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 01:22:13.235853'
+  source:
+    repository: kanripo
+    path: KR4d0207/KR4d0207_000.txt
+hash: sha256:7484e5c233a70725b829ea2241dbd52384a0e535bdc2d7f595ffcacdc21bad69
