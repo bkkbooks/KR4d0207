@@ -40,16 +40,12 @@ markers:
 
       ', id: KR4d0207_krp_023-bkkkrnewl4}
   - {type: line-break, offset: 49, content: '', id: KR4d0207_SBCK_023-1a04}
-  - {type: substitution, offset: 50, original: 牓, replacement: 榜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1426}}
-  - {type: substitution, offset: 60, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: variant, offset: 67, length: 6, content: 以名其集直齋, WYG: 聿來多福}
-  - {type: substitution, offset: 72, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
   - {type: 'kr:newline', offset: 73, content: '
 
       ', id: KR4d0207_krp_023-bkkkrnewl5}
   - {type: line-break, offset: 73, content: '', id: KR4d0207_SBCK_023-1a05}
   - {type: variant, offset: 74, length: 84, content: 錄解題載淵集卷數與此本合宋史藝文志則稱二十六卷詞三卷此本有詩無詞宋志所載蓋别本也此本首葉有影寫崑山徐氏傳是樓所藏宋槧本一行知從舊本傳錄卷二十二第十葉因原本字跡糢糊故脫去, WYG: ''}
-  - {type: substitution, offset: 74, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: 'kr:newline', offset: 97, content: '
 
       ', id: KR4d0207_krp_023-bkkkrnewl6}
@@ -58,12 +54,10 @@ markers:
 
       ', id: KR4d0207_krp_023-bkkkrnewl7}
   - {type: line-break, offset: 121, content: '', id: KR4d0207_SBCK_023-1a07}
-  - {type: substitution, offset: 140, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: 'kr:newline', offset: 145, content: '
 
       ', id: KR4d0207_krp_023-bkkkrnewl8}
   - {type: line-break, offset: 145, content: '', id: KR4d0207_SBCK_023-1a08}
-  - {type: substitution, offset: 164, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
   - {type: variant, offset: 165, length: 0, content: '', WYG: 及道鄉帖了齋剛正而不容姦道鄉清介而不受汙觀其字想見其為人凛然皆見於心畫之間矣方二蔡無恙時士之欲謀其身而免於咎者必先瑕疵此兩人乃能得志是時公論不行於朝廷之上而此兩人者竄逐流落皇皇無歸以至於死然兩人者身可廢家可破而天下謂之鄒陳則自始迄今無異辭也此豈口舌之所能得哉其必有感人心者矣此簡作於異鄉窮阨之中語言翰墨初不經意而能乆存者豈非為無求於世者得之􅍦取其人而不以時為輕重耶建炎二年七月十一日陳淵書題富鄭公河北安邊䇿富鄭公安邊十三䇿得之玉山尉喻子才子才葢龜山門人有意兹世者傳書甚多異日當盡就借録焉紹興六年二月十日舟次胡頭書偶言人之言人是非初非有嫌怨也出於偶然而其人亦無意屬垣也忽然已至若偵伺者騐之多矣此何謂也或曰人與人同㳺乎一氣或逺或近雖離而未甞不合也故相違隔世或見於夢所居異室願言則􅅉而世之言它心通者坐於奥窔之間而千里之外輒能知之此戒慎乎其所不睹恐懼乎其所不聞所以為中庸慎獨之學也子思曰道不可須臾離也可離非道也而龜山之言曰譬之天地四方離東則之西離南則之北若夫無所往而非道則欲離將焉之乎夫惟不可離是以未甞不合雖然如是其説猶未離思慮之内必有非思慮而得之者吾將聞焉則未之見也中庸解義天命之謂性言性莫非天也率性之謂道言道莫非性也脩道之謂教言教莫非道也離而為三則曰性曰道曰教合而為一則亦天而已以率性為道道之在人者也以脩道為教因其在人者還以治之也循天下固然之理莫之舍焉又勿助也夫是之為率立之以中過不及者有以裁之夫是之謂脩率性所以成已也脩道所以成物也成已仁也成物知也性之徳也故學中庸者其要在於知性知性則知天矣率性而脩道所以事天也終至於賛天地之化育與天地參此其本與知逺之近必正其本知風之自必謹其始知㣲之顯必慎其小夫如是故可與入徳徳者得其在我者而已論子重昔子重簡師以代吳無故而䘮楚之良君子以為所獲不如所亡故子重病之遇心疾而卒嗟乎子重之死以其所亡之多也其所亡之多以其初不計所獲也夫不計所獲而易於出師則其得心疾也乆矣豈必䘮良而後見乎形盡於喪良之後心病於出師之前故子重之死原其受病非一日之積也後之用人如求其成功觀其本心如何耳無為事敗然後論其致病之由則善矣論用兵用兵而至於多殺豈君子之所欲哉然較一時之勝負係國安危則亦有不得已而至於多殺者君子為之為國計也徳宗欲取石堡城王忠嗣以謂非二萬人不可逗撓不進以此得罪方唐之盛安危之機似不在此然忠嗣終不以二萬人之命易一時之功者重於殺人故也又豈以得罪為悔哉孟子曰爭地以戰殺人盈野争城以戰殺人盈城此所謂率土地而食人肉罪不容於死夫孟子之所罪者王忠嗣之所畏也而忠嗣反不免於徳宗之貶何哉當是之時權其輕重者無如孟子之賢耳輗軏大車恃牛而行而輗所以駕牛者也小車恃馬而行而軏所以駕馬者也無輗則不可以駕牛無軏則不可以駕馬輗軏不具車馬雖欲行其可得乎故曰自古皆有死民無信不立為是之故也書唐子西集後今人得蜀人唐子西詩文二百餘篇於吳少綝反覆玩味不能釋手真佳作也余觀近世文人其議論精深雅有先輩風流的然可施於用如此公殆無而僅有也惜其不年齎恨以沒可為太息壬寅六月七日書倦㳺雜録後此書記胥魁之賣女羣吏之偕逃辨誣也表何仙之腐敗于師之醜穢闢邪也慢行之踰垣跣足之規利誅姦也予於是見斯人之不可惑矣戯述如是不無小補豈獨賢於已乎靖康元年十一月二十日螺川書室書題了齋所書解禪偈後了齋謂佛為覺謂禪為定人人皆可學而至如使足日俱到便登聖地至於不歴堦級如吾儒所謂由之而行非行之者葢未之甞言以待學者自得焉故甞愛司馬温公解禪偈其意猶此其書以與人不知凡幾本而李興祖得之字畫尤妙愛其字而求其意二公之心可見矣子思子之言曰或生而知之或學而知之或困而知之及其知之一也或安而行之或利而行之或勉强而行之及其成功一也粗妙兩融心跡一致雖聖人復起不易其言矣彼以舍跡而論心棄粗而逐妙然後為得道非正論也紹聖二年正月二十五日姪孫淵書題了齋所}
   - {type: page-break, offset: 165, content: '', id: KR4d0207_WYG_022-7a, image: WYG1139/WYG1139-0532c.png}
   - {type: page-break, offset: 165, content: '', id: KR4d0207_WYG_022-7b, image: WYG1139/WYG1139-0532d.png}
@@ -85,7 +79,6 @@ markers:
   - {type: page-break, offset: 169, content: '', id: KR4d0207_WYG_022-12b, image: WYG1139/WYG1139-0535b.png}
   - {type: page-break, offset: 169, content: '', id: KR4d0207_WYG_022-13a, image: WYG1139/WYG1139-0535c.png}
   - {type: variant, offset: 173, length: 25, content: 七行檢四庫全書所錄鮑士恭家進呈本亦闕然庫本并第九葉, WYG: 一月陳淵題}
-  - {type: substitution, offset: 181, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: 'kr:newline', offset: 193, content: '
 
       ', id: KR4d0207_krp_023-bkkkrnewl10}
@@ -96,7 +89,6 @@ markers:
   - {type: variant, offset: 208, length: 0, content: '', WYG: 巻峽江蕭茂徳得之叔祖了翁之家葢翁之所甞讀而以善本校定者塗竄注改皆其親筆觀其心畫想見其為人則其遺風餘烈或得於此此所以為可寶也茂徳翁之孫壻也始予見其初昏於南康恨未之欵後八年訪余於永豐之官舍攷其學問以窺其志之所存葢足以知翁之㣲而能推大其所未究者已而出此書相示感余疇昔至於流涕太息則其寶是物也豈徒然而已哉建炎}
   - {type: page-break, offset: 208, content: '', id: KR4d0207_WYG_022-14a, image: WYG1139/WYG1139-0536a.png}
   - {type: variant, offset: 209, length: 1, content: 葉, WYG: 年六月二十日姪孫陳淵書}
-  - {type: substitution, offset: 212, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
   - {type: 'kr:newline', offset: 217, content: '
 
       ', id: KR4d0207_krp_023-bkkkrnewl11}
@@ -157,4 +149,4 @@ markers:
 
       ', id: KR4d0207_krp_023-bkkkrnewl16}
   back: []
-hash: sha256:ef131ddaa42ed1354770982cfbab8d34a185f0187429bdbcaa685ea77e100268
+hash: sha256:be7d3a1558095f8002352d16cbaed3d4e7e11f4d669fb9a6174aa1f27616c628
