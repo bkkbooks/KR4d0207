@@ -22,6 +22,7 @@ markers:
   - {type: indent, offset: 1, content: 　　　　, id: KR4d0207_krp_015-bkkind2}
   - {type: punctuation, offset: 5, content: (, id: KR4d0207_krp_015-bkkpn1}
   - {type: variant, offset: 5, length: 5, content: 為建陽丞折, WYG: ''}
+  - {type: voice, offset: 5, length: 10, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 9, content: <, id: KR4d0207_krp_015-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 10, content: t="33", id: KR4d0207_krp_015-bkkkrnonc2}
   - {type: punctuation, offset: 10, content: /, id: KR4d0207_krp_015-bkkpn2}
@@ -3293,6 +3294,7 @@ markers:
   - {type: indent, offset: 10753, content: 　　　　, id: KR4d0207_krp_015-bkkind17}
   - {type: punctuation, offset: 10757, content: (, id: KR4d0207_krp_015-bkkpn4}
   - {type: variant, offset: 10757, length: 2, content: 至完, WYG: ''}
+  - {type: voice, offset: 10757, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 10759, content: ), id: KR4d0207_krp_015-bkkpn5}
   - {type: 'kr:newline', offset: 10759, content: '
 
@@ -3515,4 +3517,4 @@ markers:
   - {type: variant, offset: 11493, length: 0, content: '', WYG: 欽定四庫全書黙堂集巻}
   - {type: page-break, offset: 11493, content: '', id: KR4d0207_WYG_016-1a, image: WYG1139/WYG1139-0426c.png}
   back: []
-hash: sha256:04ac563af5635b8a6e793ff97aa435b4108471bed1187cbffe99e94779e72623
+hash: sha256:d647ba1f277688cf48a34c5ca07f51e12b8c7b74bb39271a1f9a6267ea45fee0

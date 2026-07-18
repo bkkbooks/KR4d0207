@@ -253,6 +253,7 @@ markers:
   - {type: line-break, offset: 565, content: '', id: KR4d0207_SBCK_009-2b08}
   - {type: punctuation, offset: 571, content: (, id: KR4d0207_krp_009-bkkpn1}
   - {type: variant, offset: 571, length: 3, content: 李也折, WYG: ''}
+  - {type: voice, offset: 571, length: 6, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 573, content: <, id: KR4d0207_krp_009-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 574, content: t="33", id: KR4d0207_krp_009-bkkkrnonc2}
   - {type: punctuation, offset: 574, content: /, id: KR4d0207_krp_009-bkkpn2}
@@ -273,6 +274,7 @@ markers:
   - {type: line-break, offset: 599, content: '', id: KR4d0207_SBCK_009-2b10}
   - {type: punctuation, offset: 604, content: (, id: KR4d0207_krp_009-bkkpn4}
   - {type: variant, offset: 604, length: 4, content: 愛甥也折, WYG: 能}
+  - {type: voice, offset: 604, length: 8, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 607, content: <, id: KR4d0207_krp_009-bkkkrnonc4}
   - {type: 'kr:non-cjk', offset: 608, content: t="33", id: KR4d0207_krp_009-bkkkrnonc5}
   - {type: punctuation, offset: 608, content: /, id: KR4d0207_krp_009-bkkpn5}
@@ -705,6 +707,7 @@ markers:
   - {type: variant, offset: 1661, length: 1, content: 捷, WYG: 㨗}
   - {type: punctuation, offset: 1669, content: (, id: KR4d0207_krp_009-bkkpn7}
   - {type: variant, offset: 1669, length: 10, content: 句用李愬擒元濟事也折, WYG: ''}
+  - {type: voice, offset: 1669, length: 20, name: note, id: n3}
   - {type: substitution, offset: 1672, original: 愬, replacement: 訴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16594}}
   - {type: 'kr:non-cjk', offset: 1678, content: <, id: KR4d0207_krp_009-bkkkrnonc7}
   - {type: 'kr:non-cjk', offset: 1679, content: t="33", id: KR4d0207_krp_009-bkkkrnonc8}
@@ -795,6 +798,7 @@ markers:
   - {type: line-break, offset: 1891, content: '', id: KR4d0207_SBCK_009-6b03}
   - {type: punctuation, offset: 1896, content: (, id: KR4d0207_krp_009-bkkpn10}
   - {type: variant, offset: 1896, length: 3, content: 造船折, WYG: ''}
+  - {type: voice, offset: 1896, length: 6, name: note, id: n4}
   - {type: 'kr:non-cjk', offset: 1898, content: <, id: KR4d0207_krp_009-bkkkrnonc10}
   - {type: 'kr:non-cjk', offset: 1899, content: t="33", id: KR4d0207_krp_009-bkkkrnonc11}
   - {type: punctuation, offset: 1899, content: /, id: KR4d0207_krp_009-bkkpn11}
@@ -803,6 +807,7 @@ markers:
   - {type: variant, offset: 1902, length: 0, content: '', WYG: 造船}
   - {type: punctuation, offset: 1907, content: (, id: KR4d0207_krp_009-bkkpn13}
   - {type: variant, offset: 1907, length: 3, content: 修城折, WYG: ''}
+  - {type: voice, offset: 1907, length: 6, name: note, id: n5}
   - {type: 'kr:non-cjk', offset: 1909, content: <, id: KR4d0207_krp_009-bkkkrnonc13}
   - {type: 'kr:non-cjk', offset: 1910, content: t="33", id: KR4d0207_krp_009-bkkkrnonc14}
   - {type: punctuation, offset: 1910, content: /, id: KR4d0207_krp_009-bkkpn14}
@@ -865,4 +870,4 @@ markers:
 
       ', id: KR4d0207_krp_009-bkkkrnewl141}
   back: []
-hash: sha256:76b58816da995f0a576fa4ec79efaa77ab575af011ca0d2a61038b280d3feb8c
+hash: sha256:68707120e08a1dc5c69c0c621e82db804a6bf0c30891624c1485a78718088b4f

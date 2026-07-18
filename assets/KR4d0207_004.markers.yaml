@@ -108,6 +108,7 @@ markers:
   - {type: line-break, offset: 226, content: '', id: KR4d0207_SBCK_004-1b04}
   - {type: punctuation, offset: 236, content: (, id: KR4d0207_krp_004-bkkpn1}
   - {type: variant, offset: 236, length: 4, content: 老堂也折, WYG: ''}
+  - {type: voice, offset: 236, length: 8, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 239, content: <, id: KR4d0207_krp_004-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 240, content: t="33", id: KR4d0207_krp_004-bkkkrnonc2}
   - {type: punctuation, offset: 240, content: /, id: KR4d0207_krp_004-bkkpn2}
@@ -121,6 +122,7 @@ markers:
   - {type: variant, offset: 244, length: 0, content: '', WYG: 老堂也}
   - {type: punctuation, offset: 247, content: (, id: KR4d0207_krp_004-bkkpn4}
   - {type: variant, offset: 247, length: 3, content: 先塋折, WYG: ''}
+  - {type: voice, offset: 247, length: 6, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 249, content: <, id: KR4d0207_krp_004-bkkkrnonc4}
   - {type: 'kr:non-cjk', offset: 250, content: t="33", id: KR4d0207_krp_004-bkkkrnonc5}
   - {type: punctuation, offset: 250, content: /, id: KR4d0207_krp_004-bkkpn5}
@@ -208,6 +210,7 @@ markers:
   - {type: line-break, offset: 481, content: '', id: KR4d0207_SBCK_004-2a06}
   - {type: punctuation, offset: 485, content: (, id: KR4d0207_krp_004-bkkpn7}
   - {type: variant, offset: 485, length: 0, content: '', WYG: 京師與昭逺約遊玉華既而返舍以事阻爽約}
+  - {type: voice, offset: 485, length: 36, name: note, id: n3}
   - {type: 'kr:non-cjk', offset: 502, content: <, id: KR4d0207_krp_004-bkkkrnonc7}
   - {type: variant, offset: 502, length: 19, content: 折京師與昭遠約逰玉華既而返舍以事阻爽約, WYG: ''}
   - {type: 'kr:non-cjk', offset: 503, content: t="33", id: KR4d0207_krp_004-bkkkrnonc8}
@@ -814,6 +817,7 @@ markers:
   - {type: indent, offset: 1942, content: 　　　　, id: KR4d0207_krp_004-bkkind23}
   - {type: punctuation, offset: 1945, content: (, id: KR4d0207_krp_004-bkkpn10}
   - {type: variant, offset: 1945, length: 0, content: '', WYG: 延平}
+  - {type: voice, offset: 1945, length: 5, name: note, id: n4}
   - {type: 'kr:non-cjk', offset: 1947, content: <, id: KR4d0207_krp_004-bkkkrnonc10}
   - {type: variant, offset: 1947, length: 3, content: 折延平, WYG: ''}
   - {type: 'kr:non-cjk', offset: 1948, content: t="33", id: KR4d0207_krp_004-bkkkrnonc11}
@@ -859,6 +863,7 @@ markers:
   - {type: variant, offset: 2049, length: 1, content: 茆, WYG: 茒}
   - {type: punctuation, offset: 2059, content: (, id: KR4d0207_krp_004-bkkpn13}
   - {type: variant, offset: 2059, length: 5, content: 老僧以茆折, WYG: ''}
+  - {type: voice, offset: 2059, length: 20, name: note, id: n5}
   - {type: 'kr:non-cjk', offset: 2063, content: <, id: KR4d0207_krp_004-bkkkrnonc13}
   - {type: 'kr:non-cjk', offset: 2064, content: t="33", id: KR4d0207_krp_004-bkkkrnonc14}
   - {type: punctuation, offset: 2064, content: /, id: KR4d0207_krp_004-bkkpn14}
@@ -988,4 +993,4 @@ markers:
 
       ', id: KR4d0207_krp_004-bkkkrnewl158}
   back: []
-hash: sha256:92b03b600717967c72d8ee61df1bf70761f6070be34fc48445fb66d100870a87
+hash: sha256:3e90c09333a34dc440caf2f62065364cd9395fb508d288b39fb9b893940d7946

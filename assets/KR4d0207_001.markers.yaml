@@ -76,6 +76,7 @@ markers:
   - {type: indent, offset: 125, content: 　　　　, id: KR4d0207_krp_001-bkkind8}
   - {type: punctuation, offset: 128, content: (, id: KR4d0207_krp_001-bkkpn1}
   - {type: variant, offset: 128, length: 4, content: 其書院折, WYG: ''}
+  - {type: voice, offset: 128, length: 8, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 131, content: <, id: KR4d0207_krp_001-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 132, content: t="33", id: KR4d0207_krp_001-bkkkrnonc2}
   - {type: punctuation, offset: 132, content: /, id: KR4d0207_krp_001-bkkpn2}
@@ -385,6 +386,7 @@ markers:
   - {type: variant, offset: 921, length: 1, content: 往, WYG: 徃}
   - {type: variant, offset: 928, length: 2, content: 鱗鱗, WYG: 粼粼此地有樊}
   - {type: punctuation, offset: 930, content: (, id: KR4d0207_krp_001-bkkpn4}
+  - {type: voice, offset: 930, length: 9, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 934, content: <, id: KR4d0207_krp_001-bkkkrnonc4}
   - {type: variant, offset: 934, length: 5, content: 折此地有樊, WYG: ''}
   - {type: 'kr:non-cjk', offset: 935, content: t="33", id: KR4d0207_krp_001-bkkkrnonc5}
@@ -411,6 +413,7 @@ markers:
   - {type: line-break, offset: 971, content: '', id: KR4d0207_SBCK_001-3b11}
   - {type: punctuation, offset: 981, content: (, id: KR4d0207_krp_001-bkkpn7}
   - {type: variant, offset: 981, length: 2, content: 御名, WYG: 慎}
+  - {type: voice, offset: 981, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 983, content: ), id: KR4d0207_krp_001-bkkpn8}
   - {type: 'kr:newline', offset: 990, content: '
 
@@ -472,6 +475,7 @@ markers:
   - {type: line-break, offset: 1124, content: '', id: KR4d0207_SBCK_001-4a09}
   - {type: punctuation, offset: 1136, content: (, id: KR4d0207_krp_001-bkkpn9}
   - {type: variant, offset: 1136, length: 0, content: '', WYG: 次山有意游湖阻雨僕將}
+  - {type: voice, offset: 1136, length: 29, name: note, id: n4}
   - {type: 'kr:non-cjk', offset: 1146, content: <, id: KR4d0207_krp_001-bkkkrnonc7}
   - {type: variant, offset: 1146, length: 11, content: 折次山有意逰湖阻雨僕将, WYG: 得久于錢}
   - {type: 'kr:non-cjk', offset: 1147, content: t="33", id: KR4d0207_krp_001-bkkkrnonc8}
@@ -781,6 +785,7 @@ markers:
   - {type: line-break, offset: 1933, content: '', id: KR4d0207_SBCK_001-6b03}
   - {type: punctuation, offset: 1939, content: (, id: KR4d0207_krp_001-bkkpn15}
   - {type: variant, offset: 1939, length: 0, content: '', WYG: 退之年二十}
+  - {type: voice, offset: 1939, length: 11, name: note, id: n5}
   - {type: 'kr:non-cjk', offset: 1944, content: <, id: KR4d0207_krp_001-bkkkrnonc13}
   - {type: variant, offset: 1944, length: 6, content: 折退之年二十, WYG: ''}
   - {type: 'kr:non-cjk', offset: 1945, content: t="33", id: KR4d0207_krp_001-bkkkrnonc14}
@@ -922,6 +927,7 @@ markers:
   - {type: variant, offset: 2289, length: 1, content: 往, WYG: 徃}
   - {type: punctuation, offset: 2296, content: (, id: KR4d0207_krp_001-bkkpn18}
   - {type: variant, offset: 2296, length: 3, content: 謫亷折, WYG: ''}
+  - {type: voice, offset: 2296, length: 6, name: note, id: n6}
   - {type: 'kr:non-cjk', offset: 2298, content: <, id: KR4d0207_krp_001-bkkkrnonc16}
   - {type: 'kr:non-cjk', offset: 2299, content: t="33", id: KR4d0207_krp_001-bkkkrnonc17}
   - {type: punctuation, offset: 2299, content: /, id: KR4d0207_krp_001-bkkpn19}
@@ -1009,4 +1015,4 @@ markers:
   - {type: variant, offset: 2431, length: 0, content: '', WYG: 欽定四庫全書黙堂集巻二宋陳淵撰}
   - {type: page-break, offset: 2431, content: '', id: KR4d0207_WYG_002-1a, image: WYG1139/WYG1139-0307c.png}
   back: []
-hash: sha256:c08d0c36178dc8e3c173320c5e0284ce37c565c01bf15633da44149d5a9011bc
+hash: sha256:8890774636e3277e6904201756d7e8e32b5b41c412e8c806f3290a16d664fbe0

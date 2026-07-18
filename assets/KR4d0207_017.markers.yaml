@@ -602,6 +602,7 @@ markers:
   - {type: line-break, offset: 1987, content: '', id: KR4d0207_SBCK_017-5a11}
   - {type: punctuation, offset: 1997, content: (, id: KR4d0207_krp_017-bkkpn1}
   - {type: variant, offset: 1997, length: 0, content: '', WYG: 癸巳生至宣和四年}
+  - {type: voice, offset: 1997, length: 17, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 2005, content: <, id: KR4d0207_krp_017-bkkkrnonc1}
   - {type: variant, offset: 2005, length: 9, content: 折癸巳生至宣和四年, WYG: ''}
   - {type: 'kr:non-cjk', offset: 2006, content: t="33", id: KR4d0207_krp_017-bkkkrnonc2}
@@ -2028,6 +2029,7 @@ markers:
   - {type: variant, offset: 6930, length: 1, content: 來, WYG: 来}
   - {type: punctuation, offset: 6935, content: (, id: KR4d0207_krp_017-bkkpn4}
   - {type: variant, offset: 6935, length: 0, content: '', WYG: 来書}
+  - {type: voice, offset: 6935, length: 5, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 6937, content: <, id: KR4d0207_krp_017-bkkkrnonc4}
   - {type: variant, offset: 6937, length: 3, content: 折來書, WYG: ''}
   - {type: 'kr:non-cjk', offset: 6938, content: t="33", id: KR4d0207_krp_017-bkkkrnonc5}
@@ -3566,4 +3568,4 @@ markers:
   - {type: variant, offset: 12061, length: 0, content: '', WYG: 欽定四庫全書黙堂集巻十八宋陳淵撰}
   - {type: page-break, offset: 12061, content: '', id: KR4d0207_WYG_018-1a, image: WYG1139/WYG1139-0466a.png}
   back: []
-hash: sha256:3befe499574dd55609ae93e7c33e35b57f25aa129e6c8e1171c34c4cd54ca5a7
+hash: sha256:081d695fd0eca8c6020e98ff78d343212e145ada20457e8be375bceee8e3cd94

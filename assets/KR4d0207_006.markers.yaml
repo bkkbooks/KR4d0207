@@ -206,6 +206,7 @@ markers:
   - {type: line-break, offset: 503, content: '', id: KR4d0207_SBCK_006-2a10}
   - {type: punctuation, offset: 509, content: (, id: KR4d0207_krp_006-bkkpn1}
   - {type: variant, offset: 509, length: 14, content: 意深曉堯舜之道則佛在其中矣折, WYG: ''}
+  - {type: voice, offset: 509, length: 28, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 522, content: <, id: KR4d0207_krp_006-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 523, content: t="33", id: KR4d0207_krp_006-bkkkrnonc2}
   - {type: punctuation, offset: 523, content: /, id: KR4d0207_krp_006-bkkpn2}
@@ -237,6 +238,7 @@ markers:
   - {type: line-break, offset: 587, content: '', id: KR4d0207_SBCK_006-2b03}
   - {type: punctuation, offset: 593, content: (, id: KR4d0207_krp_006-bkkpn4}
   - {type: variant, offset: 593, length: 0, content: '', WYG: 是年公上元出游}
+  - {type: voice, offset: 593, length: 14, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 599, content: <, id: KR4d0207_krp_006-bkkkrnonc4}
   - {type: variant, offset: 599, length: 8, content: 折是年公上元出逰, WYG: ''}
   - {type: 'kr:non-cjk', offset: 600, content: t="33", id: KR4d0207_krp_006-bkkkrnonc5}
@@ -372,6 +374,7 @@ markers:
   - {type: variant, offset: 904, length: 1, content: 鬬, WYG: 狩}
   - {type: punctuation, offset: 906, content: (, id: KR4d0207_krp_006-bkkpn7}
   - {type: variant, offset: 906, length: 8, content: 取絶筆之義故云折, WYG: ''}
+  - {type: voice, offset: 906, length: 16, name: note, id: n3}
   - {type: 'kr:non-cjk', offset: 913, content: <, id: KR4d0207_krp_006-bkkkrnonc7}
   - {type: 'kr:non-cjk', offset: 914, content: t="33", id: KR4d0207_krp_006-bkkkrnonc8}
   - {type: punctuation, offset: 914, content: /, id: KR4d0207_krp_006-bkkpn8}
@@ -418,6 +421,7 @@ markers:
   - {type: line-break, offset: 1017, content: '', id: KR4d0207_SBCK_006-3b08}
   - {type: punctuation, offset: 1023, content: (, id: KR4d0207_krp_006-bkkpn10}
   - {type: variant, offset: 1023, length: 0, content: '', WYG: 詔書近}
+  - {type: voice, offset: 1023, length: 7, name: note, id: n4}
   - {type: 'kr:non-cjk', offset: 1026, content: <, id: KR4d0207_krp_006-bkkkrnonc10}
   - {type: variant, offset: 1026, length: 4, content: 折詔書近, WYG: ''}
   - {type: 'kr:non-cjk', offset: 1027, content: t="33", id: KR4d0207_krp_006-bkkkrnonc11}
@@ -604,6 +608,7 @@ markers:
   - {type: line-break, offset: 1494, content: '', id: KR4d0207_SBCK_006-5a03}
   - {type: punctuation, offset: 1496, content: (, id: KR4d0207_krp_006-bkkpn13}
   - {type: variant, offset: 1496, length: 19, content: 而微苦乆方發甘知此味者鮮矣宜以為獻也折, WYG: ''}
+  - {type: voice, offset: 1496, length: 37, name: note, id: n5}
   - {type: substitution, offset: 1499, original: 乆, replacement: 久, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19497}}
   - {type: variant, offset: 1501, length: 1, content: 發, SBCK: 􅀤}
   - {type: 'kr:non-cjk', offset: 1514, content: <, id: KR4d0207_krp_006-bkkkrnonc13}
@@ -702,6 +707,7 @@ markers:
   - {type: variant, offset: 1695, length: 1, content: 繼, SBCK: 􅁇}
   - {type: punctuation, offset: 1698, content: (, id: KR4d0207_krp_006-bkkpn16}
   - {type: variant, offset: 1698, length: 9, content: 曹相國尊盖公事云折, WYG: ''}
+  - {type: voice, offset: 1698, length: 17, name: note, id: n6}
   - {type: substitution, offset: 1702, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
   - {type: 'kr:non-cjk', offset: 1706, content: <, id: KR4d0207_krp_006-bkkkrnonc16}
   - {type: 'kr:non-cjk', offset: 1707, content: t="33", id: KR4d0207_krp_006-bkkkrnonc17}
@@ -758,6 +764,7 @@ markers:
   - {type: line-break, offset: 1840, content: '', id: KR4d0207_SBCK_006-6a01}
   - {type: punctuation, offset: 1852, content: (, id: KR4d0207_krp_006-bkkpn19}
   - {type: variant, offset: 1852, length: 7, content: 城謂謝吏部也折, WYG: ''}
+  - {type: voice, offset: 1852, length: 14, name: note, id: n7}
   - {type: 'kr:non-cjk', offset: 1858, content: <, id: KR4d0207_krp_006-bkkkrnonc19}
   - {type: 'kr:non-cjk', offset: 1859, content: t="33", id: KR4d0207_krp_006-bkkkrnonc20}
   - {type: punctuation, offset: 1859, content: /, id: KR4d0207_krp_006-bkkpn20}
@@ -861,6 +868,7 @@ markers:
   - {type: variant, offset: 2170, length: 1, content: 煙, WYG: 烟}
   - {type: punctuation, offset: 2175, content: (, id: KR4d0207_krp_006-bkkpn22}
   - {type: variant, offset: 2175, length: 0, content: '', WYG: 用中建堂名世綵叔}
+  - {type: voice, offset: 2175, length: 30, name: note, id: n8}
   - {type: 'kr:non-cjk', offset: 2183, content: <, id: KR4d0207_krp_006-bkkkrnonc22}
   - {type: variant, offset: 2183, length: 6, content: 折用中建堂名, WYG: 衣長久五}
   - {type: 'kr:non-cjk', offset: 2184, content: t="33", id: KR4d0207_krp_006-bkkkrnonc23}
@@ -933,4 +941,4 @@ markers:
   - {type: variant, offset: 2296, length: 0, content: '', WYG: 欽定四庫全書黙堂集巻七宋陳淵撰}
   - {type: page-break, offset: 2296, content: '', id: KR4d0207_WYG_007-1a, image: WYG1139/WYG1139-0333a.png}
   back: []
-hash: sha256:bcb32d35d0620f8756fede5a14cdbc687496a054b3e1a4a3ef4e7a1bfc43e174
+hash: sha256:9e76a23e70150de467c0bfb88c00ef208cf9d0796fdfc37c974936746a89ceb1

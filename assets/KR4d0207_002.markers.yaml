@@ -55,6 +55,7 @@ markers:
   - {type: variant, offset: 99, length: 1, content: 寄, SBCK: 􅀉}
   - {type: punctuation, offset: 103, content: (, id: KR4d0207_krp_002-bkkpn1}
   - {type: variant, offset: 103, length: 0, content: '', WYG: 三年徃來俱}
+  - {type: voice, offset: 103, length: 10, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 107, content: <, id: KR4d0207_krp_002-bkkkrnonc1}
   - {type: variant, offset: 107, length: 6, content: 折三年往來俱, WYG: ''}
   - {type: 'kr:non-cjk', offset: 108, content: t="33", id: KR4d0207_krp_002-bkkkrnonc2}
@@ -474,6 +475,7 @@ markers:
   - {type: line-break, offset: 1119, content: '', id: KR4d0207_SBCK_002-4a08}
   - {type: indent, offset: 1119, content: 　　　　, id: KR4d0207_krp_002-bkkind16}
   - {type: punctuation, offset: 1121, content: (, id: KR4d0207_krp_002-bkkpn4}
+  - {type: voice, offset: 1121, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1123, content: ), id: KR4d0207_krp_002-bkkpn5}
   - {type: 'kr:newline', offset: 1123, content: '
 
@@ -959,4 +961,4 @@ markers:
   - {type: variant, offset: 2339, length: 0, content: '', WYG: 欽定四庫全書黙堂集巻三宋陳淵撰}
   - {type: page-break, offset: 2339, content: '', id: KR4d0207_WYG_003-1a, image: WYG1139/WYG1139-0312c.png}
   back: []
-hash: sha256:18cb6ea1c2c80ee61e74bff897425b67a183a5ea339b8667c887b8e96dd95de7
+hash: sha256:893a5759cdcce4922491b122471b3cea59f287e7416918488c57b495a2e902b4

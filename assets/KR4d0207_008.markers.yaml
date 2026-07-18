@@ -373,6 +373,7 @@ markers:
   - {type: substitution, offset: 933, original: 㣲, replacement: 微, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19843}}
   - {type: punctuation, offset: 938, content: (, id: KR4d0207_krp_008-bkkpn1}
   - {type: variant, offset: 938, length: 0, content: '', WYG: 時自郡中来經安福到縣}
+  - {type: voice, offset: 938, length: 28, name: note, id: n1}
   - {type: variant, offset: 946, length: 1, content: 返, SBCK: 􅝭}
   - {type: 'kr:non-cjk', offset: 948, content: <, id: KR4d0207_krp_008-bkkkrnonc1}
   - {type: variant, offset: 948, length: 11, content: 折時自那中來經安福到縣, WYG: 用乗風}
@@ -568,6 +569,7 @@ markers:
   - {type: substitution, offset: 1361, original: 畆, replacement: 畝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16556}}
   - {type: punctuation, offset: 1363, content: (, id: KR4d0207_krp_008-bkkpn7}
   - {type: variant, offset: 1363, length: 9, content: 時同賔友燕賞其中折, WYG: ''}
+  - {type: voice, offset: 1363, length: 17, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 1371, content: <, id: KR4d0207_krp_008-bkkkrnonc7}
   - {type: 'kr:non-cjk', offset: 1372, content: t="33", id: KR4d0207_krp_008-bkkkrnonc8}
   - {type: punctuation, offset: 1372, content: /, id: KR4d0207_krp_008-bkkpn8}
@@ -621,6 +623,7 @@ markers:
   - {type: punctuation, offset: 1497, content: (, id: KR4d0207_krp_008-bkkpn10}
   - {type: variant, offset: 1497, length: 5, content: 䛕暮之戲折, WYG: ''}
   - {type: substitution, offset: 1497, original: 䛕, replacement: 諛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20226}}
+  - {type: voice, offset: 1497, length: 9, name: note, id: n3}
   - {type: 'kr:non-cjk', offset: 1501, content: <, id: KR4d0207_krp_008-bkkkrnonc10}
   - {type: 'kr:non-cjk', offset: 1502, content: t="33", id: KR4d0207_krp_008-bkkkrnonc11}
   - {type: punctuation, offset: 1502, content: /, id: KR4d0207_krp_008-bkkpn11}
@@ -891,4 +894,4 @@ markers:
   - {type: variant, offset: 2094, length: 0, content: '', WYG: 欽定四庫全書黙堂集巻九宋陳淵撰}
   - {type: page-break, offset: 2094, content: '', id: KR4d0207_WYG_009-1a, image: WYG1139/WYG1139-0342a.png}
   back: []
-hash: sha256:2eda6c531440a31d7e5b05f26848580740584f9bb67ac7245cb7af7047f3edb1
+hash: sha256:74636a70d26c0188680bb71d9c92192460589bc44ab51b05c99c579001f19edd

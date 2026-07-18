@@ -111,6 +111,7 @@ markers:
   - {type: substitution, offset: 177, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20838}}
   - {type: punctuation, offset: 180, content: (, id: KR4d0207_krp_003-bkkpn1}
   - {type: variant, offset: 180, length: 0, content: '', WYG: 立我南}
+  - {type: voice, offset: 180, length: 7, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 183, content: <, id: KR4d0207_krp_003-bkkkrnonc1}
   - {type: variant, offset: 183, length: 4, content: 折立我南, WYG: ''}
   - {type: 'kr:non-cjk', offset: 184, content: t="33", id: KR4d0207_krp_003-bkkkrnonc2}
@@ -559,6 +560,7 @@ markers:
   - {type: indent, offset: 1277, content: 　　　　, id: KR4d0207_krp_003-bkkind22}
   - {type: punctuation, offset: 1281, content: (, id: KR4d0207_krp_003-bkkpn4}
   - {type: variant, offset: 1281, length: 0, content: '', WYG: 代楊}
+  - {type: voice, offset: 1281, length: 5, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 1283, content: <, id: KR4d0207_krp_003-bkkkrnonc4}
   - {type: variant, offset: 1283, length: 3, content: 折代楊, WYG: ''}
   - {type: 'kr:non-cjk', offset: 1284, content: t="33", id: KR4d0207_krp_003-bkkkrnonc5}
@@ -626,6 +628,7 @@ markers:
   - {type: indent, offset: 1426, content: 　　　　, id: KR4d0207_krp_003-bkkind23}
   - {type: punctuation, offset: 1431, content: (, id: KR4d0207_krp_003-bkkpn7}
   - {type: variant, offset: 1431, length: 0, content: '', WYG: 代楊}
+  - {type: voice, offset: 1431, length: 5, name: note, id: n3}
   - {type: 'kr:non-cjk', offset: 1433, content: <, id: KR4d0207_krp_003-bkkkrnonc7}
   - {type: variant, offset: 1433, length: 3, content: 折代楊, WYG: ''}
   - {type: 'kr:non-cjk', offset: 1434, content: t="33", id: KR4d0207_krp_003-bkkkrnonc8}
@@ -1007,4 +1010,4 @@ markers:
   - {type: variant, offset: 2301, length: 0, content: '', WYG: 欽定四庫全書黙堂集巻四宋陳淵撰}
   - {type: page-break, offset: 2301, content: '', id: KR4d0207_WYG_004-1a, image: WYG1139/WYG1139-0317c.png}
   back: []
-hash: sha256:3a948135e8590ae46a7e3f8ba7cf103d8fc73a92a8e140747b73dc0b8e0ce436
+hash: sha256:bba9073407ec5054cc94d03bd5b6f839a8cf98abe664674f4a03c4def5566480

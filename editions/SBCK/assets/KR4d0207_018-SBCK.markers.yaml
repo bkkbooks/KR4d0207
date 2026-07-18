@@ -1310,6 +1310,7 @@ markers:
   - {type: line-break, offset: 5826, content: '', id: KR4d0207_SBCK_018-14a11}
   - {type: indent, offset: 5826, content: 　　　　, id: KR4d0207_SBCK_018-bkkind14}
   - {type: punctuation, offset: 5832, content: (, id: KR4d0207_SBCK_018-bkkpn1}
+  - {type: voice, offset: 5832, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 5833, content: ), id: KR4d0207_SBCK_018-bkkpn2}
   - {type: 'kr:newline', offset: 5833, content: '
 
@@ -1353,6 +1354,7 @@ markers:
   - {type: line-break, offset: 6005, content: '', id: KR4d0207_SBCK_018-14b09}
   - {type: indent, offset: 6005, content: 　　　　, id: KR4d0207_SBCK_018-bkkind15}
   - {type: punctuation, offset: 6011, content: (, id: KR4d0207_SBCK_018-bkkpn3}
+  - {type: voice, offset: 6011, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 6012, content: ), id: KR4d0207_SBCK_018-bkkpn4}
   - {type: 'kr:newline', offset: 6012, content: '
 
@@ -1457,6 +1459,7 @@ markers:
   - {type: line-break, offset: 6424, content: '', id: KR4d0207_SBCK_018-15b10}
   - {type: indent, offset: 6424, content: 　　　　, id: KR4d0207_SBCK_018-bkkind17}
   - {type: punctuation, offset: 6430, content: (, id: KR4d0207_SBCK_018-bkkpn5}
+  - {type: voice, offset: 6430, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 6432, content: ), id: KR4d0207_SBCK_018-bkkpn6}
   - {type: 'kr:newline', offset: 6432, content: '
 
@@ -1638,6 +1641,7 @@ markers:
   - {type: line-break, offset: 7221, content: '', id: KR4d0207_SBCK_018-17b06}
   - {type: indent, offset: 7221, content: 　　　　, id: KR4d0207_SBCK_018-bkkind20}
   - {type: punctuation, offset: 7227, content: (, id: KR4d0207_SBCK_018-bkkpn7}
+  - {type: voice, offset: 7227, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 7228, content: ), id: KR4d0207_SBCK_018-bkkpn8}
   - {type: 'kr:newline', offset: 7228, content: '
 
@@ -1872,4 +1876,4 @@ markers:
 
       ', id: KR4d0207_SBCK_018-bkkkrnewl459}
   back: []
-hash: sha256:70d5b3dfd060c59bd59a91f71a08e1e40e124cbd5e4bfe2732825043d878fc6f
+hash: sha256:63957e75637a2912bc79dc1b02ef6801ba2cba440d8492360c6da3e4cced6659

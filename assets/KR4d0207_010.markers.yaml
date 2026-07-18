@@ -61,6 +61,7 @@ markers:
   - {type: line-break, offset: 131, content: '', id: KR4d0207_SBCK_010-1a11}
   - {type: indent, offset: 131, content: 　　　　, id: KR4d0207_krp_010-bkkind4}
   - {type: punctuation, offset: 144, content: (, id: KR4d0207_krp_010-bkkpn1}
+  - {type: voice, offset: 144, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 145, content: ), id: KR4d0207_krp_010-bkkpn2}
   - {type: 'kr:newline', offset: 145, content: '
 
@@ -163,6 +164,7 @@ markers:
       ', id: KR4d0207_krp_010-bkkkrnewl32}
   - {type: line-break, offset: 489, content: '', id: KR4d0207_SBCK_010-2a09}
   - {type: punctuation, offset: 499, content: (, id: KR4d0207_krp_010-bkkpn3}
+  - {type: voice, offset: 499, length: 4, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 500, content: <, id: KR4d0207_krp_010-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 501, content: t="33", id: KR4d0207_krp_010-bkkkrnonc2}
   - {type: punctuation, offset: 501, content: /, id: KR4d0207_krp_010-bkkpn4}
@@ -262,6 +264,7 @@ markers:
   - {type: line-break, offset: 799, content: '', id: KR4d0207_SBCK_010-3a04}
   - {type: indent, offset: 799, content: 　　　　, id: KR4d0207_krp_010-bkkind11}
   - {type: punctuation, offset: 806, content: (, id: KR4d0207_krp_010-bkkpn6}
+  - {type: voice, offset: 806, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 807, content: ), id: KR4d0207_krp_010-bkkpn7}
   - {type: 'kr:newline', offset: 807, content: '
 
@@ -452,6 +455,7 @@ markers:
   - {type: variant, offset: 1325, length: 1, content: 修, WYG: 脩}
   - {type: punctuation, offset: 1330, content: (, id: KR4d0207_krp_010-bkkpn8}
   - {type: variant, offset: 1330, length: 0, content: '', WYG: 寒碧軒乃西湖上十三}
+  - {type: voice, offset: 1330, length: 20, name: note, id: n4}
   - {type: 'kr:non-cjk', offset: 1339, content: <, id: KR4d0207_krp_010-bkkkrnonc4}
   - {type: variant, offset: 1339, length: 11, content: 折寒碧軒乃西湖上十三間, WYG: ''}
   - {type: 'kr:non-cjk', offset: 1340, content: t="33", id: KR4d0207_krp_010-bkkkrnonc5}
@@ -477,6 +481,7 @@ markers:
   - {type: line-break, offset: 1372, content: '', id: KR4d0207_SBCK_010-4b05}
   - {type: punctuation, offset: 1378, content: (, id: KR4d0207_krp_010-bkkpn11}
   - {type: variant, offset: 1378, length: 0, content: '', WYG: 東坡詩所謂牎前}
+  - {type: voice, offset: 1378, length: 14, name: note, id: n5}
   - {type: 'kr:non-cjk', offset: 1384, content: <, id: KR4d0207_krp_010-bkkkrnonc7}
   - {type: variant, offset: 1384, length: 8, content: 折東坡詩所謂窗前, WYG: ''}
   - {type: 'kr:non-cjk', offset: 1385, content: t="33", id: KR4d0207_krp_010-bkkkrnonc8}
@@ -512,6 +517,7 @@ markers:
   - {type: line-break, offset: 1442, content: '', id: KR4d0207_SBCK_010-4b09}
   - {type: punctuation, offset: 1448, content: (, id: KR4d0207_krp_010-bkkpn14}
   - {type: variant, offset: 1448, length: 0, content: '', WYG: 退之竹洞詩云若要}
+  - {type: voice, offset: 1448, length: 17, name: note, id: n6}
   - {type: 'kr:non-cjk', offset: 1456, content: <, id: KR4d0207_krp_010-bkkkrnonc10}
   - {type: variant, offset: 1456, length: 9, content: 折退之竹洞詩云若要, WYG: ''}
   - {type: 'kr:non-cjk', offset: 1457, content: t="33", id: KR4d0207_krp_010-bkkkrnonc11}
@@ -803,4 +809,4 @@ markers:
   - {type: page-break, offset: 2108, content: '', id: KR4d0207_WYG_010-10b, image: WYG1139/WYG1139-0351b.png}
   - {type: page-break, offset: 2108, content: '', id: KR4d0207_WYG_011-1a, image: WYG1139/WYG1139-0352a.png}
   back: []
-hash: sha256:767844e7fb77bcadac3e3d293cfd70da6f59226d47e5809bc9cf3cea01f0e4ca
+hash: sha256:70a00a2bbf8a6bbee2ff5eafee077cd6eccaffa528978dfe4c3b51567d566ab7

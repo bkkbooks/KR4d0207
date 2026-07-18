@@ -18,6 +18,7 @@ markers:
   - {type: line-break, offset: 2, content: '', id: KR4d0207_SBCK_022-1a03}
   - {type: indent, offset: 2, content: 　　　　, id: KR4d0207_SBCK_022-bkkind2}
   - {type: punctuation, offset: 7, content: (, id: KR4d0207_SBCK_022-bkkpn1}
+  - {type: voice, offset: 7, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 10, content: ), id: KR4d0207_SBCK_022-bkkpn2}
   - {type: 'kr:newline', offset: 10, content: '
 
@@ -271,6 +272,7 @@ markers:
   - {type: line-break, offset: 1030, content: '', id: KR4d0207_SBCK_022-3b04}
   - {type: indent, offset: 1030, content: 　　　　, id: KR4d0207_SBCK_022-bkkind9}
   - {type: punctuation, offset: 1035, content: (, id: KR4d0207_SBCK_022-bkkpn3}
+  - {type: voice, offset: 1035, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 1039, content: ), id: KR4d0207_SBCK_022-bkkpn4}
   - {type: 'kr:newline', offset: 1039, content: '
 
@@ -883,6 +885,7 @@ markers:
   - {type: line-break, offset: 3547, content: '', id: KR4d0207_SBCK_022-9b08}
   - {type: indent, offset: 3547, content: 　　　　, id: KR4d0207_SBCK_022-bkkind27}
   - {type: punctuation, offset: 3554, content: (, id: KR4d0207_SBCK_022-bkkpn5}
+  - {type: voice, offset: 3554, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3556, content: ), id: KR4d0207_SBCK_022-bkkpn6}
   - {type: 'kr:newline', offset: 3556, content: '
 
@@ -926,6 +929,7 @@ markers:
   - {type: line-break, offset: 3722, content: '', id: KR4d0207_SBCK_022-10a06}
   - {type: indent, offset: 3722, content: 　　　　, id: KR4d0207_SBCK_022-bkkind28}
   - {type: punctuation, offset: 3733, content: (, id: KR4d0207_SBCK_022-bkkpn7}
+  - {type: voice, offset: 3733, length: 16, name: note, id: n4}
   - {type: 'kr:non-cjk', offset: 3740, content: <, id: KR4d0207_SBCK_022-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 3741, content: t="33", id: KR4d0207_SBCK_022-bkkkrnonc2}
   - {type: punctuation, offset: 3741, content: /, id: KR4d0207_SBCK_022-bkkpn8}
@@ -1591,4 +1595,4 @@ markers:
 
       ', id: KR4d0207_SBCK_022-bkkkrnewl386}
   back: []
-hash: sha256:f1ec08ffe3577fc05fc05224f4f0eaa9548e0ee0b5e4c4a911b357fbc77985b9
+hash: sha256:31591bbce04178e29ee5c33c3a5690c619a82dd12fbfb623d8a215f62735d20f

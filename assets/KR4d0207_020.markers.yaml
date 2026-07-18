@@ -21,6 +21,7 @@ markers:
   - {type: line-break, offset: 2, content: '', id: KR4d0207_SBCK_020-1a03}
   - {type: indent, offset: 2, content: 　　　　, id: KR4d0207_krp_020-bkkind2}
   - {type: punctuation, offset: 6, content: (, id: KR4d0207_krp_020-bkkpn1}
+  - {type: voice, offset: 6, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 8, content: ), id: KR4d0207_krp_020-bkkpn2}
   - {type: 'kr:newline', offset: 8, content: '
 
@@ -1453,6 +1454,7 @@ markers:
   - {type: substitution, offset: 5116, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 5120, content: (, id: KR4d0207_krp_020-bkkpn3}
   - {type: variant, offset: 5120, length: 3, content: 至宏折, WYG: ''}
+  - {type: voice, offset: 5120, length: 6, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 5122, content: <, id: KR4d0207_krp_020-bkkkrnonc1}
   - {type: 'kr:non-cjk', offset: 5123, content: t="33", id: KR4d0207_krp_020-bkkkrnonc2}
   - {type: punctuation, offset: 5123, content: /, id: KR4d0207_krp_020-bkkpn4}
@@ -2844,6 +2846,7 @@ markers:
   - {type: indent, offset: 9484, content: 　　　　, id: KR4d0207_krp_020-bkkind57}
   - {type: punctuation, offset: 9491, content: (, id: KR4d0207_krp_020-bkkpn6}
   - {type: variant, offset: 9491, length: 0, content: '', WYG: 來頌云内性白外形黒}
+  - {type: voice, offset: 9491, length: 19, name: note, id: n3}
   - {type: 'kr:non-cjk', offset: 9500, content: <, id: KR4d0207_krp_020-bkkkrnonc4}
   - {type: variant, offset: 9500, length: 10, content: 折來頌云内性白外形黒, WYG: ''}
   - {type: 'kr:non-cjk', offset: 9501, content: t="33", id: KR4d0207_krp_020-bkkkrnonc5}
@@ -3007,4 +3010,4 @@ markers:
   - {type: variant, offset: 9891, length: 0, content: '', WYG: 欽定四庫全書黙堂集巻}
   - {type: page-break, offset: 9891, content: '', id: KR4d0207_WYG_021-1a, image: WYG1139/WYG1139-0516a.png}
   back: []
-hash: sha256:1c523d9dd94bdc37b9b5f86c8c4cac29646fd17dcc85ae8c25c6df768aac5845
+hash: sha256:a2852ae63825a48b6dca4162a1122e32af031bfe798ca99bf2f4792c328bd625

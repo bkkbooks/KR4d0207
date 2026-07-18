@@ -156,6 +156,7 @@ markers:
   - {type: line-break, offset: 425, content: '', id: KR4d0207_SBCK_016-2a01}
   - {type: indent, offset: 425, content: 　　　　, id: KR4d0207_krp_016-bkkind3}
   - {type: punctuation, offset: 428, content: (, id: KR4d0207_krp_016-bkkpn1}
+  - {type: voice, offset: 428, length: 5, name: note, id: n1}
   - {type: variant, offset: 429, length: 1, content: 院, WYG: 阮}
   - {type: variant, offset: 432, length: 1, content: 作, WYG: ''}
   - {type: punctuation, offset: 433, content: ), id: KR4d0207_krp_016-bkkpn2}
@@ -839,6 +840,7 @@ markers:
   - {type: line-break, offset: 2818, content: '', id: KR4d0207_SBCK_016-7a02}
   - {type: indent, offset: 2818, content: 　　　　, id: KR4d0207_krp_016-bkkind5}
   - {type: punctuation, offset: 2822, content: (, id: KR4d0207_krp_016-bkkpn3}
+  - {type: voice, offset: 2822, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2824, content: ), id: KR4d0207_krp_016-bkkpn4}
   - {type: 'kr:newline', offset: 2824, content: '
 
@@ -3210,4 +3212,4 @@ markers:
   - {type: variant, offset: 11219, length: 0, content: '', WYG: 欽定四庫全書黙堂集巻十七宋陳淵撰}
   - {type: page-break, offset: 11219, content: '', id: KR4d0207_WYG_017-1a, image: WYG1139/WYG1139-0445a.png}
   back: []
-hash: sha256:b1f0f48d9e243632ced36b04c4925e7379b03c7ee8a74d7bf08f41c3e49c4a07
+hash: sha256:22e0cf3f946fd7f97632126157ed7d3cb432a0ab9b9dcf8693113fe35f9443bb

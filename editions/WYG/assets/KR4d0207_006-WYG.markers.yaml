@@ -157,6 +157,7 @@ markers:
   - {type: line-break, offset: 502, content: '', id: KR4d0207_WYG_006-2b12}
   - {type: 'kr:non-cjk', offset: 508, content: <, id: KR4d0207_WYG_006-bkkkrnonc1}
   - {type: punctuation, offset: 508, content: (, id: KR4d0207_WYG_006-bkkpn1}
+  - {type: voice, offset: 508, length: 27, name: note, id: n1}
   - {type: punctuation, offset: 522, content: /, id: KR4d0207_WYG_006-bkkpn2}
   - {type: line-break, offset: 522, content: '', id: KR4d0207_WYG_006-2b13}
   - {type: punctuation, offset: 535, content: ), id: KR4d0207_WYG_006-bkkpn3}
@@ -184,6 +185,7 @@ markers:
   - {type: line-break, offset: 585, content: '', id: KR4d0207_WYG_006-3a06}
   - {type: 'kr:non-cjk', offset: 591, content: <, id: KR4d0207_WYG_006-bkkkrnonc2}
   - {type: punctuation, offset: 591, content: (, id: KR4d0207_WYG_006-bkkpn4}
+  - {type: voice, offset: 591, length: 13, name: note, id: n2}
   - {type: punctuation, offset: 598, content: /, id: KR4d0207_WYG_006-bkkpn5}
   - {type: line-break, offset: 598, content: '', id: KR4d0207_WYG_006-3a07}
   - {type: punctuation, offset: 604, content: ), id: KR4d0207_WYG_006-bkkpn6}
@@ -293,6 +295,7 @@ markers:
   - {type: line-break, offset: 891, content: '', id: KR4d0207_WYG_006-4a12}
   - {type: 'kr:non-cjk', offset: 903, content: <, id: KR4d0207_WYG_006-bkkkrnonc3}
   - {type: punctuation, offset: 903, content: (, id: KR4d0207_WYG_006-bkkpn7}
+  - {type: voice, offset: 903, length: 15, name: note, id: n3}
   - {type: punctuation, offset: 910, content: /, id: KR4d0207_WYG_006-bkkpn8}
   - {type: line-break, offset: 911, content: '', id: KR4d0207_WYG_006-4a13}
   - {type: punctuation, offset: 917, content: ), id: KR4d0207_WYG_006-bkkpn9}
@@ -341,6 +344,7 @@ markers:
   - {type: line-break, offset: 1012, content: '', id: KR4d0207_WYG_006-4b10}
   - {type: line-break, offset: 1013, content: '', id: KR4d0207_WYG_006-4b11}
   - {type: punctuation, offset: 1019, content: (, id: KR4d0207_WYG_006-bkkpn13}
+  - {type: voice, offset: 1019, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 1022, content: /, id: KR4d0207_WYG_006-bkkpn14}
   - {type: punctuation, offset: 1025, content: ), id: KR4d0207_WYG_006-bkkpn15}
   - {type: 'kr:non-cjk', offset: 1025, content: <, id: KR4d0207_WYG_006-bkkkrnonc4}
@@ -565,6 +569,7 @@ markers:
   - {type: line-break, offset: 1678, content: '', id: KR4d0207_WYG_006-7b04}
   - {type: 'kr:non-cjk', offset: 1690, content: <, id: KR4d0207_WYG_006-bkkkrnonc6}
   - {type: punctuation, offset: 1690, content: (, id: KR4d0207_WYG_006-bkkpn16}
+  - {type: voice, offset: 1690, length: 16, name: note, id: n5}
   - {type: punctuation, offset: 1697, content: /, id: KR4d0207_WYG_006-bkkpn17}
   - {type: line-break, offset: 1698, content: '', id: KR4d0207_WYG_006-7b05}
   - {type: punctuation, offset: 1704, content: ), id: KR4d0207_WYG_006-bkkpn18}
@@ -619,6 +624,7 @@ markers:
   - {type: line-break, offset: 1831, content: '', id: KR4d0207_WYG_006-8a05}
   - {type: 'kr:non-cjk', offset: 1843, content: <, id: KR4d0207_WYG_006-bkkkrnonc7}
   - {type: punctuation, offset: 1843, content: (, id: KR4d0207_WYG_006-bkkpn22}
+  - {type: voice, offset: 1843, length: 13, name: note, id: n6}
   - {type: punctuation, offset: 1850, content: /, id: KR4d0207_WYG_006-bkkpn23}
   - {type: punctuation, offset: 1856, content: ), id: KR4d0207_WYG_006-bkkpn24}
   - {type: 'kr:newline', offset: 1856, content: '
@@ -711,6 +717,7 @@ markers:
       ', id: KR4d0207_WYG_006-bkkkrnewl143}
   - {type: line-break, offset: 2150, content: '', id: KR4d0207_WYG_006-9a06}
   - {type: punctuation, offset: 2164, content: (, id: KR4d0207_WYG_006-bkkpn25}
+  - {type: voice, offset: 2164, length: 28, name: note, id: n7}
   - {type: punctuation, offset: 2171, content: /, id: KR4d0207_WYG_006-bkkpn26}
   - {type: punctuation, offset: 2178, content: ), id: KR4d0207_WYG_006-bkkpn27}
   - {type: 'kr:newline', offset: 2178, content: '
@@ -804,4 +811,4 @@ markers:
 
       ', id: KR4d0207_WYG_006-bkkkrnewl160}
   back: []
-hash: sha256:c2f5d333f791679700ed047e7ad2a934caa021b090ba52054756bb38c6bd93b1
+hash: sha256:33e1f524f8fe4abad578a1e8ef05a8fb6f1622235985d86fe3f8dc517163688b
